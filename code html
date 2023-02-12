@@ -1,0 +1,12 @@
+<!-- Created by Андрей Канцер -->
+
+<h1 align="center">My Jumper Game</h1>
+<p align="center">A fun flappy-bird like game.</p>
+
+<canvas id="canvas" width="600" height="400">
+  Your browser does not support the HTML5 canvas tag.
+</canvas>
+<br></br>
+<!--
+ <button id="jump">Jump</button>
+-->
