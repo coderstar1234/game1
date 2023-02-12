@@ -1,0 +1,104 @@
+// Created by himanshuvashistha
+
+window.onload = function() {
+    var btn = document.getElementById("jump");
+    var count = 0;
+    var canvas = document.getElementById("canvas");
+    var context = canvas.getContext("2d");
+    var x = 300;
+    var y = 100;
+    var speed = 25;
+    var t = Date.now();
+
+    context.arc(x, y, 50, 0, 2 * Math.PI);
+    context.fillStyle="red";
+    context.fill();
+    var gameOn = false;
+    var firstStart = true;
+    
+    function sleep(delay) { 
+        var start = new Date().getTime(); 
+        while (new Date().getTime() < start + delay); 
+    } 
+    
+    function draw() {
+        //gameOn = true;
+        
+        if(y > 350 || y < 55) {
+          context.clearRect(0, 0, 600, 400);
+
+          context.beginPath();
+          context.arc(x, y, 50, 0, 2 * Math.PI);
+          context.fillStyle="red";
+          context.fill();     
+          context.fillText("S:" + count, 20, 20);
+          context.fillText("Game over:", 20, 40);
+          context.fillText("Y:" + y, 20, 60);
+          count = 0
+          y = 100;
+          speed = 25;
+          gameOn = false;
+          //console.log("stop game");
+        }    
+        
+        if(gameOn){
+          context.clearRect(0, 0, 600, 400);
+
+          context.beginPath();
+          context.arc(x, y, 50, 0, 2 * Math.PI);
+          context.fillStyle="red";
+          context.fill();
+          var timePassed = (Date.now() - t) / 1000;
+          t = Date.now();
+          if(y <= 350) {
+            speed += 50 * timePassed;
+            y += speed*timePassed;
+          }
+          context.font = '15px Arial';
+          context.fillStyle = 'white';
+          context.fillText("S:" + count, 20, 20);
+          context.fillText("T:" + t, 20, 40);
+          context.fillText("Y:" + y, 20, 60);
+          window.requestAnimationFrame(draw);
+        }
+    }      
+
+function userTap(){
+        count += 1;
+        if(y>24 && y<350){
+          y -= 25;
+        }else{
+          y=100;
+        }
+        if(speed > 25){
+          speed -= 20;
+        }
+
+        
+        if(!gameOn && !firstStart){
+            sleep(200);
+            t = Date.now();
+            gameOn = true;
+            draw();
+        }
+        
+        if(firstStart){
+            firstStart = false;
+            gameOn = true;
+            draw();
+        }
+}
+
+document.onkeydown = function() {
+  userTap ();
+}
+document.ontouchstart = function() {
+  userTap ();
+}
+/*
+    btn.onclick = function() {
+        userTap ();
+        
+    }
+*/
+}
