@@ -1,12 +1,5 @@
 
-Web Game Dev Guide
 
-Default (GPT-3.5)
-
-User
-Make a readme file for GitHub title is game making html CSS and JavaScript and using backend skills .some play at animation ......
-
-ChatGPT
 Game Development using HTML, CSS, JavaScript, and Backend Skills
 Welcome to the repository for creating interactive games using a combination of web technologies, including HTML, CSS, JavaScript, and backend skills. This project emphasizes the development of engaging games with the incorporation of animations and interactivity.
 
