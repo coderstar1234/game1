@@ -1,4 +1,6 @@
-<h1 align='center'>Game Development</h1> using HTML, CSS, JavaScript, and Backend Skills
+<h1 align='center'>Game Development</h1> 
+
+- Game Developmentusing HTML, CSS, JavaScript, and Backend Skills
 Welcome to the repository for creating interactive games using a combination of web technologies, including HTML, CSS, JavaScript, and backend skills. This project emphasizes the development of engaging games with the incorporation of animations and interactivity.
 
 Table of Contents
