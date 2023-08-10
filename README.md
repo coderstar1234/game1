@@ -7,7 +7,7 @@
 <h1 align='center'><i>Table of Contents:-</i></h1> 
 
 - Introduction
-Technologies Used
+- Technologies Used
 Getting Started
 Project Structure
 Game Examples
