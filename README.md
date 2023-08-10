@@ -10,7 +10,7 @@
 - Technologies Used
 - Getting Started
 - Project Structure
-Game Examples
+- Game Examples
 Backend Integration
 Contributing
 License
