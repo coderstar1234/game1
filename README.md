@@ -6,7 +6,7 @@
 
 <h1 align='center'><i>Table of Contents:-</i></h1> 
 
-Introduction
+- Introduction
 Technologies Used
 Getting Started
 Project Structure
