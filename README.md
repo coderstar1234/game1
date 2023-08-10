@@ -8,7 +8,7 @@
 
 - Introduction
 - Technologies Used
-Getting Started
+- Getting Started
 Project Structure
 Game Examples
 Backend Integration
