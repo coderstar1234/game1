@@ -4,7 +4,7 @@
 - Welcome to the repository for creating interactive games using a combination of web technologies, including HTML, CSS, JavaScript, and backend skills.
 - This project emphasizes the development of engaging games with the incorporation of animations and interactivity.
 
-<h1 align='center'><i>Table of Contents</i></h1> 
+<h1 align='center'><i>Table of Contents:-</i></h1> 
 
 Introduction
 Technologies Used
