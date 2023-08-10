@@ -9,7 +9,7 @@
 - Introduction
 - Technologies Used
 - Getting Started
-Project Structure
+- Project Structure
 Game Examples
 Backend Integration
 Contributing
