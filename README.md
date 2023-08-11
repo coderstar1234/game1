@@ -11,7 +11,7 @@
 - Getting Started
 - Project Structure
 - Game Examples
-Backend Integration
+- Backend Integration
 Contributing
 License
 Introduction
