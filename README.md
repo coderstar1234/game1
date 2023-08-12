@@ -14,6 +14,7 @@
 - Backend Integration
 - Contributing
 - License
+<hr>
 <h1 align='center'><i>Introduction:-</i></h1> 
 
 - This repository aims to provide a comprehensive guide and code samples for creating exciting games using a web-based approach. 
