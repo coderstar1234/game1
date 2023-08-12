@@ -19,7 +19,8 @@
 - This repository aims to provide a comprehensive guide and code samples for creating exciting games using a web-based approach. 
 - Whether you're a beginner or an experienced developer, you'll find resources to help you master the art of game development using HTML, CSS, JavaScript, and backend skills.
 
-Technologies Used
+
+<h1 align='center'><i>Technologies Used:-</i></h1> 
 HTML5: Markup language for structuring game elements.
 CSS3: Styling for designing visually appealing game interfaces.
 JavaScript: Programming language for implementing game logic and interactivity.
