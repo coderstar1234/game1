@@ -65,7 +65,8 @@ Learn how to integrate backend skills into your games to add features like user 
 Contributing
 Contributions to this project are welcome! If you've created new game examples, improved documentation, or enhanced the backend integration, feel free to submit a pull request. Please follow the contribution guidelines.
 
-License
+<h1 align='center'><i>License:-</i></h1> 
+<
 This project is licensed under the MIT License, which allows you to use, modify, and distribute the code for both commercial and non-commercial purposes.
 
 <h1 align='center'><i>Happy game development! 🎮🚀:-</i></h1> 
