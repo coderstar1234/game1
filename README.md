@@ -19,7 +19,7 @@
 
 - This repository aims to provide a comprehensive guide and code samples for creating exciting games using a web-based approach. 
 - Whether you're a beginner or an experienced developer, you'll find resources to help you master the art of game development using HTML, CSS, JavaScript, and backend skills.
-
+<hr>
 
 <h1 align='center'><i>Technologies Used:-</i></h1>  
 
