@@ -1,5 +1,5 @@
 <h1 align='center'><i>Game Development:-</i></h1> 
-
+<
 - Game Developmentusing HTML, CSS, JavaScript, and Backend Skills.
 - Welcome to the repository for creating interactive games using a combination of web technologies, including HTML, CSS, JavaScript, and backend skills.
 - This project emphasizes the development of engaging games with the incorporation of animations and interactivity.
@@ -68,4 +68,5 @@ Contributions to this project are welcome! If you've created new game examples, 
 License
 This project is licensed under the MIT License, which allows you to use, modify, and distribute the code for both commercial and non-commercial purposes.
 
-Happy game development! 🎮🚀
+<h1 align='center'><i>Happy game development! 🎮🚀:-</i></h1> 
+<
