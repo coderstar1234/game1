@@ -64,7 +64,9 @@ Backend Integration
 Learn how to integrate backend skills into your games to add features like user authentication, score tracking, and multiplayer capabilities. The backend/ directory contains examples and guides for server-side scripting.
 
 Contributing
-Contributions to this project are welcome! If you've created new game examples, improved documentation, or enhanced the backend integration, feel free to submit a pull request. Please follow the contribution guidelines.
+
+- Contributions to this project are welcome! If you've created new game examples, improved documentation, or enhanced the backend integration, feel free to submit a pull request.
+- Please follow the contribution guidelines.
 
 <h1 align='center'><i>License:-</i></h1> 
 
