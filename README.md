@@ -69,6 +69,6 @@ Contributions to this project are welcome! If you've created new game examples, 
 <h1 align='center'><i>License:-</i></h1> 
 
 This project is licensed under the MIT License, which allows you to use, modify, and distribute the code for both commercial and non-commercial purposes.
-
+<hr>
 <h1 align='center'><i>Happy game development! 🎮🚀:-</i></h1> 
 
