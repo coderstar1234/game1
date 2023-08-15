@@ -65,11 +65,11 @@ Explore a variety of game examples within the repository, each demonstrating dif
 Backend Integration
 Learn how to integrate backend skills into your games to add features like user authentication, score tracking, and multiplayer capabilities. The backend/ directory contains examples and guides for server-side scripting.
 
-Contributing
+<h1 align='center'><i>Contributing:-</i></h1> 
 
 - Contributions to this project are welcome! If you've created new game examples, improved documentation, or enhanced the backend integration, feel free to submit a pull request.
 - Please follow the contribution guidelines.
-<hr >
+<hr>
 <h1 align='center'><i>License:-</i></h1> 
 
 - This project is licensed under the MIT License, which allows you to use, modify, and distribute the code for both commercial and non-commercial purposes.
