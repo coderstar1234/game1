@@ -63,7 +63,8 @@ Game Examples
 Explore a variety of game examples within the repository, each demonstrating different game mechanics and features. Study the code and modify the games to enhance your understanding and skills.
 
 <h1 align='center'><i>Backend Integration:-</i></h1> 
-Learn how to integrate backend skills into your games to add features like user authentication, score tracking, and multiplayer capabilities. The backend/ directory contains examples and guides for server-side scripting.
+
+- Learn how to integrate backend skills into your games to add features like user authentication, score tracking, and multiplayer capabilities. The backend/ directory contains examples and guides for server-side scripting.
 <hr>
 <h1 align='center'><i>Contributing:-</i></h1> 
 
