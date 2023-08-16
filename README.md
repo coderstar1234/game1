@@ -59,6 +59,7 @@ css/: Directory containing stylesheets for game visuals.
 js/: Directory containing JavaScript files for game logic.
 images/: Folder for storing image assets used in games.
 backend/: Directory for backend scripts and server integration.
+<hr>
 Game Examples
 Explore a variety of game examples within the repository, each demonstrating different game mechanics and features. Study the code and modify the games to enhance your understanding and skills.
 
