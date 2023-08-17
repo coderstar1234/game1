@@ -51,7 +51,7 @@ Copy code
 npm install -g http-server
 http-server
 Open your web browser and visit http://localhost:8080 to see the sample games and experiments.
-
+<hr>
 Project Structure
 The repository is organized as follows:
 
