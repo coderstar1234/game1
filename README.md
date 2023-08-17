@@ -33,7 +33,8 @@
 - To get started, clone this repository and explore the various game examples and resources provided. 
 - You can use a simple web server to host and test your games locally.
 <hr>
-Clone the repository:
+<h1 align='center'><i>Clone the repository:-</i></h1> 
+
 
 bash
 Copy code
