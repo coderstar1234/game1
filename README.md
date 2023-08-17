@@ -60,7 +60,8 @@ js/: Directory containing JavaScript files for game logic.
 images/: Folder for storing image assets used in games.
 backend/: Directory for backend scripts and server integration.
 <hr>
-Game Examples
+<h1 align='center'><i>Game Examples:-</i></h1> 
+
 Explore a variety of game examples within the repository, each demonstrating different game mechanics and features. Study the code and modify the games to enhance your understanding and skills.
 
 <h1 align='center'><i>Backend Integration:-</i></h1> 
