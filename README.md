@@ -52,7 +52,8 @@ npm install -g http-server
 http-server
 Open your web browser and visit http://localhost:8080 to see the sample games and experiments.
 <hr>
-Project Structure
+<h1 align='center'><i>Project Structure:-</i></h1> 
+
 The repository is organized as follows:
 
 index.html: Landing page for accessing different game examples.
