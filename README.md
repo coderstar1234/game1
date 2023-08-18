@@ -60,7 +60,7 @@ The repository is organized as follows:
 - css/: Directory containing stylesheets for game visuals.
 - js/: Directory containing JavaScript files for game logic.
 - images/: Folder for storing image assets used in games.
-backend/: Directory for backend scripts and server integration.
+- backend/: Directory for backend scripts and server integration.
 <hr>
 <h1 align='center'><i>Game Examples:-</i></h1> 
 
