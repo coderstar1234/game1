@@ -56,7 +56,7 @@ Open your web browser and visit http://localhost:8080 to see the sample games an
 
 The repository is organized as follows:
 
-index.html: Landing page for accessing different game examples.
+- index.html: Landing page for accessing different game examples.
 css/: Directory containing stylesheets for game visuals.
 js/: Directory containing JavaScript files for game logic.
 images/: Folder for storing image assets used in games.
