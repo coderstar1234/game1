@@ -54,7 +54,7 @@ Open your web browser and visit http://localhost:8080 to see the sample games an
 <hr>
 <h1 align='center'><i>Project Structure:-</i></h1> 
 
-The repository is organized as follows:
+<h2 align='center'><i>The repository is organized as follows:</i></h2> 
 
 - index.html: Landing page for accessing different game examples.
 - css/: Directory containing stylesheets for game visuals.
