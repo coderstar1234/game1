@@ -50,8 +50,8 @@
 cd game-development
 Start a local web server. You can use tools like http-server or live-server:
 
-bash
-Copy code
+<h3 align='center'><i>bash:-</i></h3>
+<h4 align='center'><i>Copy code:-</i></h4>
 npm install -g http-server
 http-server
 Open your web browser and visit http://localhost:8080 to see the sample games and experiments.
