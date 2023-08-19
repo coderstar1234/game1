@@ -42,6 +42,7 @@
  https://github.com/your-username/game-deve
 
 - lopment.git
+<hr>
 <p align="center">Navigate to the project directory:-</P>
 
 bash
