@@ -36,7 +36,7 @@
 <h1 align='center'><i>Clone the repository:-</i></h1> 
 
 
-bash
+<h3 align='center'><i>bash:-</i></h3>
 Copy code
 git clone https://github.com/your-username/game-development.git
 Navigate to the project directory:
