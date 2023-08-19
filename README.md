@@ -39,7 +39,9 @@
 <h3 align='center'><i>bash:-</i></h3>
 <h4 align='center'><i>Copy code:-</i></h4>
 <h5 align='center'><i>git clone:-</i></h5>
- https://github.com/your-username/game-deve- lopment.git
+ https://github.com/your-username/game-deve
+
+- lopment.git
 <p align="center">Navigate to the project directory:-</P>
 
 bash
