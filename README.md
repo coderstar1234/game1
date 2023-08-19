@@ -45,8 +45,8 @@
 <hr>
 <p align="center">Navigate to the project directory:-</P>
 
-bash
-Copy code
+<h3 align='center'><i>bash:-</i></h3>
+<h4 align='center'><i>Copy code:-</i></h4>
 cd game-development
 Start a local web server. You can use tools like http-server or live-server:
 
