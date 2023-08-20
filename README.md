@@ -23,7 +23,7 @@
 
 <h1 align='center'><i>Technologies Used:-</i></h1>  
 
-- HTML5: Markup language for structuring game elements.
+- <b>HTML5:</b> Markup language for structuring game elements.
 - CSS3: Styling for designing visually appealing game interfaces.
 -  JavaScript: Programming language for implementing game logic and interactivity.
 - Backend Skills: Utilizing server-side scripting to manage game data and interactions.
