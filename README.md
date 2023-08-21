@@ -25,7 +25,7 @@
 
 - <b>HTML5:</b> Markup language for structuring game elements.
 - <b>CSS3:</b>  Styling for designing visually appealing game interfaces.
--  JavaScript: Programming language for implementing game logic and interactivity.
+- <b> JavaScript:</b>  Programming language for implementing game logic and interactivity.
 - Backend Skills: Utilizing server-side scripting to manage game data and interactions.
 <hr>
 <h1 align='center'><i>Getting Started:-</i></h1>  
