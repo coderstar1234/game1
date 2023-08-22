@@ -28,7 +28,7 @@
 - <b> JavaScript:</b>  Programming language for implementing game logic and interactivity.
 -<b> Backend Skills:</b>  Utilizing server-side scripting to manage game data and interactions.
 <hr>
-<h1 align='center'><i>Getting Started:-</i></h1>  
+<h1 align='center'><i>Getting Started:💯-</i></h1>  
 
 - To get started, clone this repository and explore the various game examples and resources provided. 
 - You can use a simple web server to host and test your games locally.
