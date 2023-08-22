@@ -62,7 +62,8 @@
 
 <h3 align='center'><i>bash:-</i></h3>
 <h4 align='center'><i>Copy code:-</i></h4>
-cd game-development
+
+- cd game-development
 Start a local web server. You can use tools like http-server or live-server:
 <hr>
 <h3 align='center'><i>bash:-</i></h3>
