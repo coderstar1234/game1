@@ -21,7 +21,7 @@
 - Whether you're a beginner or an experienced developer, you'll find resources to help you master the art of game development using HTML, CSS, JavaScript, and backend skills.
 <hr>
 
-<h1 align='center'><i>Technologies Used:-</i></h1>  
+<h1 align='center'><i>Technologies Used:📱-</i></h1>  
 
 - <b>HTML5:</b> Markup language for structuring game elements.
 - <b>CSS3:</b>  Styling for designing visually appealing game interfaces.
