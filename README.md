@@ -91,7 +91,7 @@ Open your web browser and visit http://localhost:8080 to see the sample games an
 - Learn how to integrate backend skills into your games to add features like user authentication, score tracking, and multiplayer capabilities.
 - The backend/ directory contains examples and guides for server-side scripting.
 <hr>
-<h1 align='center'><i>Contributing:-</i></h1> 
+<h1 align='center'><i>Contributing👬:-</i></h1> 
 
 - Contributions to this project are welcome! If you've created new game examples, improved documentation, or enhanced the backend integration, feel free to submit a pull request.
 - Please follow the contribution guidelines.
